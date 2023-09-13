@@ -1,0 +1,8 @@
+.meet-section{
+      background-image: url(./images/banner3.png);
+      width: 1200px;
+      height: 500px;
+      background-size: cover;
+      background-position: center;
+      margin: 10% 0;
+}
